@@ -29,7 +29,7 @@ export default function InstructionsComponent() {
 					href={"https://createweb3dapp.alchemy.com/#templates"}
 				>
 					<div className={styles.button}>
-						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
+						<img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} />
 						<p>Explore Templates</p>
 					</div>
 				</a>
@@ -56,23 +56,23 @@ export default function InstructionsComponent() {
 						alt="Detrix Supercharged"
 					/>
 				</a>
-				<div className={styles.icons_container}>
-					<div>
+{/* 				<div className={styles.icons_container}> */}
+{/* 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://github.com/dambu07/detrix-dapp-builder/"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							Github
 						</a>
-					</div>
-					<div>
+					</div> */}
+{/* 					<div>
 						<a
 							href="https://twitter.com/AlchemyPlatform"
 							target={"_blank"}
 						>
 							Follow us on Twitter
 						</a>
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</div>
