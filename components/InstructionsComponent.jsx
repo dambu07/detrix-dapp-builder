@@ -52,7 +52,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
+						src="public/detrix-powered.png"
 						alt="Detrix Supercharged"
 					/>
 				</a>
